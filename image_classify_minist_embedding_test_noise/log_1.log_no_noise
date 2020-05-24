@@ -1,0 +1,16 @@
+2020-05_21 08:57:17 model.py[line:91]INFO :model is built
+2020-05_21 08:57:17 model.py[line:52]INFO :reading training record from 'ckpt_1/checkpoint-272380'
+2020-05_21 08:57:17 tf_logging.py[line:82]INFO :Restoring parameters from ckpt_1/checkpoint-272380
+2020-05_21 08:57:17 model.py[line:574]INFO :loss is 0.01779383,global_step is 272381,tra_acc is 100.00%,i is 0
+2020-05_21 08:57:19 model.py[line:574]INFO :loss is 0.1081165,global_step is 272391,tra_acc is 95.31%,i is 10
+2020-05_21 08:57:20 model.py[line:574]INFO :loss is 0.08809926,global_step is 272401,tra_acc is 96.88%,i is 20
+2020-05_21 08:57:21 model.py[line:574]INFO :loss is 0.024445977,global_step is 272411,tra_acc is 98.44%,i is 30
+2020-05_21 08:57:23 model.py[line:574]INFO :loss is 0.09795444,global_step is 272421,tra_acc is 98.44%,i is 40
+2020-05_21 08:57:24 model.py[line:574]INFO :loss is 0.0928195,global_step is 272431,tra_acc is 96.88%,i is 50
+2020-05_21 08:57:25 model.py[line:574]INFO :loss is 0.049910203,global_step is 272441,tra_acc is 98.44%,i is 60
+2020-05_21 08:57:26 model.py[line:574]INFO :loss is 0.04120245,global_step is 272451,tra_acc is 96.88%,i is 70
+2020-05_21 08:57:28 model.py[line:574]INFO :loss is 0.07058455,global_step is 272461,tra_acc is 96.88%,i is 80
+2020-05_21 08:57:29 model.py[line:574]INFO :loss is 0.09304813,global_step is 272471,tra_acc is 96.88%,i is 90
+2020-05_21 08:57:38 model.py[line:632]INFO :测试集：loss is 0.06552301,tes_acc is 97.83%
+2020-05_21 08:57:38 model.py[line:574]INFO :loss is 0.03565972,global_step is 272481,tra_acc is 98.44%,i is 100
+2020-05_21 08:57:39 model.py[line:574]INFO :loss is 0.099585235,global_step is 272491,tra_acc is 96.88%,i is 110

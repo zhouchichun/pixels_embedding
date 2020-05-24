@@ -1,0 +1,6 @@
+2020-05_21 09:28:04 model.py[line:110]INFO :model is built
+2020-05_21 09:28:04 model.py[line:51]INFO :reading training record from 'ckpt_1/checkpoint-159144'
+2020-05_21 09:28:04 tf_logging.py[line:82]INFO :Restoring parameters from ckpt_1/checkpoint-159144
+2020-05_21 09:28:04 model.py[line:544]INFO :loss is 0.023291511,global_step is 159145,tra_acc is 100.00%,i is 0
+2020-05_21 09:28:08 model.py[line:602]INFO :测试集：loss is 0.28067005,tes_acc is 90.10%
+2020-05_21 09:28:09 model.py[line:544]INFO :loss is 0.016749252,global_step is 159155,tra_acc is 98.44%,i is 10

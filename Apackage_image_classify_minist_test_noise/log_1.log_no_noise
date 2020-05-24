@@ -1,0 +1,23 @@
+2020-05_19 14:47:19 model.py[line:110]INFO :model is built
+2020-05_19 14:47:19 model.py[line:51]INFO :reading training record from 'ckpt_1/checkpoint-159123'
+2020-05_19 14:47:19 tf_logging.py[line:82]INFO :Restoring parameters from ckpt_1/checkpoint-159123
+2020-05_19 14:47:19 model.py[line:544]INFO :loss is 0.16134693,global_step is 159124,tra_acc is 95.31%,i is 0
+2020-05_19 14:47:20 model.py[line:544]INFO :loss is 0.03403599,global_step is 159134,tra_acc is 98.44%,i is 10
+2020-05_19 14:47:20 model.py[line:544]INFO :loss is 0.03156977,global_step is 159144,tra_acc is 100.00%,i is 20
+2020-05_19 14:47:21 model.py[line:544]INFO :loss is 0.03421268,global_step is 159154,tra_acc is 98.44%,i is 30
+2020-05_19 14:47:21 model.py[line:544]INFO :loss is 0.020321622,global_step is 159164,tra_acc is 100.00%,i is 40
+2020-05_19 14:47:22 model.py[line:544]INFO :loss is 0.026634142,global_step is 159174,tra_acc is 98.44%,i is 50
+2020-05_19 14:47:23 model.py[line:544]INFO :loss is 0.07584271,global_step is 159184,tra_acc is 95.31%,i is 60
+2020-05_19 14:47:23 model.py[line:544]INFO :loss is 0.025746947,global_step is 159194,tra_acc is 100.00%,i is 70
+2020-05_19 14:47:24 model.py[line:544]INFO :loss is 0.13823977,global_step is 159204,tra_acc is 96.88%,i is 80
+2020-05_19 14:47:25 model.py[line:544]INFO :loss is 0.014449582,global_step is 159214,tra_acc is 100.00%,i is 90
+2020-05_19 14:47:29 model.py[line:602]INFO :测试集：loss is 0.054068256,tes_acc is 98.17%
+2020-05_19 14:47:29 model.py[line:544]INFO :loss is 0.011598747,global_step is 159224,tra_acc is 100.00%,i is 100
+2020-05_19 14:47:30 model.py[line:544]INFO :loss is 0.017364943,global_step is 159234,tra_acc is 100.00%,i is 110
+2020-05_19 14:47:31 model.py[line:544]INFO :loss is 0.062720485,global_step is 159244,tra_acc is 98.44%,i is 120
+2020-05_19 14:47:31 model.py[line:544]INFO :loss is 0.009724683,global_step is 159254,tra_acc is 100.00%,i is 130
+2020-05_19 14:47:32 model.py[line:544]INFO :loss is 0.021549169,global_step is 159264,tra_acc is 98.44%,i is 140
+2020-05_19 14:47:32 model.py[line:544]INFO :loss is 0.009572748,global_step is 159274,tra_acc is 100.00%,i is 150
+2020-05_19 14:47:33 model.py[line:544]INFO :loss is 0.02037147,global_step is 159284,tra_acc is 98.44%,i is 160
+2020-05_19 14:47:34 model.py[line:544]INFO :loss is 0.06033155,global_step is 159294,tra_acc is 98.44%,i is 170
+2020-05_19 14:47:34 model.py[line:544]INFO :loss is 0.013475015,global_step is 159304,tra_acc is 100.00%,i is 180
